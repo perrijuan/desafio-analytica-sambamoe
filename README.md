@@ -67,8 +67,6 @@ Antes de treinar os modelos, o notebook restringiu a base a seleções comparáv
 |---|---:|---:|
 | Linhas de jogos-time | 9.256 | 1.174 |
 | Seleções únicas | 262 | 46 |
-| Seleções esperadas no universo Copa 2026 | 48 | — |
-| Filtro estrito de ambos os times no universo | `True` | — |
 
 Média global após o filtro:
 
